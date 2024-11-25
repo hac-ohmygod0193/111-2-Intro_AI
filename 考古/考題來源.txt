@@ -1,0 +1,6 @@
+題目幾乎都是直接參考berkeley的midterm、final exam還有handout
+連結如下
+
+http://ai.berkeley.edu/section_handouts.html
+http://ai.berkeley.edu/sections/
+https://inst.eecs.berkeley.edu/~cs188/sp23/resources/
